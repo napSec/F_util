@@ -123,4 +123,5 @@ Searches a file for URLs .
 ![image](https://user-images.githubusercontent.com/113065386/223293021-afa05e84-48f1-4651-b836-f33c04515cd3.png)
 
 
-
+If exiv2 is not installed and you receive an error, run:
+      brew install exiv2
