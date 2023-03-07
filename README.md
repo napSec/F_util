@@ -124,4 +124,5 @@ Searches a file for URLs .
 
 
 If exiv2 is not installed and you receive an error, run:
-      brew install exiv2
+
+  <code> brew install exiv2 </code>
